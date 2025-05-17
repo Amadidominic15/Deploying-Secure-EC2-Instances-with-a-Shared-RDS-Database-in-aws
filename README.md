@@ -3,3 +3,8 @@ This project involves deploying a secure EC2 instances with a shared RDS databas
 Finally I created a pipeline using github actions to automate the deployment.
 # Aim
 My focus was on adhering to best practices for security, scalability, and maintainability.
+
+## Technologies
+![Terraform]
+(https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
