@@ -28,7 +28,6 @@ jobs:
         terraform_wrapper: true
 
     - name: Initialize Terraform
-      run: |
-        terraform init
-        terraform plan
-        terraform apply -auto-approve
+      run:  |
+            bash script/destroy.sh
+        
